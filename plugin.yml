@@ -1,0 +1,5 @@
+name: Gun
+main: Gun\CSWeapons
+version: 1.0
+author: Fix Kittisak
+api: [1.0.0]
